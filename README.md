@@ -3,7 +3,7 @@
 <hr>
 
 ### Task:
-<strong> You need to make page with red header (`<h1>`) which contain text `Hello World!` and publish it on gh-pages </strong>
+**You need to make page with red header (`<h1>`) which contain text `Hello World!` and publish it on gh-pages**
 
 <hr>
 
